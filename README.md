@@ -1,1 +1,3 @@
 # atmexercise
+
+This exercise was to take the starter code for an ATM machine and add validation so users can’t withdraw more money than the account balance and modify the user interface to require users to select deposit or withdraw before an input field is visible.  Then refactor the project with some styling and make it a little more user friendly.  I changed up the coloring for the background and the buttons.  I also changed up the fonts and centered everything to make it look a little better.  In the future I would like to add more features like a success message for deposits and withdrawls as well as a display for previous transactions.
